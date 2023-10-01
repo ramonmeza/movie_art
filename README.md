@@ -4,12 +4,13 @@ corresponds to the average color of a given frame in the movie.
 
 ## Examples
 Barbie (2023)
-[Barbie (2023)](img/barbie_output.jpg)
+![Barbie (2023)](img/barbie_output.jpg)
 
 Pulp Fiction (1994)
-[Pulp Fiction (1994)](img/pulp_fiction_output.jpg)
+![Pulp Fiction (1994)](img/pulp_fiction_output.jpg)
 
-
+Test Video (512 frames transitioning from black to white)
+![Test Video (512 frames transitioning from black to white)](img/test_output.jpg)
 
 ## Installation
 ```sh
