@@ -25,9 +25,9 @@ pip install movie_art
 
 ## Usage
 ```sh
-python -m movie_art [input.mp4] [output.jpg] [width] [height]
+python -m movie_art [input.mp4] [output.jpg] --width [width] --height [height]
 ```
 *i.e.*
 ```sh
-python -m movie_art pulp_fiction.mp4 pulp_fiction_output.jpg 512 128
+python -m movie_art pulp_fiction.mp4 pulp_fiction_output.jpg --width 512 --height 128
 ```
